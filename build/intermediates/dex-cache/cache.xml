@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\2100 usd to inr\AndroidStudioProjects\CaesarCipher\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_fc18a0fdc80391aaf9a93e629f1a6f03cf6a9cf4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\2100 usd to inr\AndroidStudioProjects\CaesarCipher\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\2100 usd to inr\AndroidStudioProjects\CaesarCipher\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_04fbe6d7d729ca9b473b13e7b65a50be779d24a5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\2100 usd to inr\AndroidStudioProjects\CaesarCipher\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\2100 usd to inr\AndroidStudioProjects\CaesarCipher\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_412e7a2d55dd73174dccc1b99c8ad16105f3e5c6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\2100 usd to inr\AndroidStudioProjects\CaesarCipher\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\2100 usd to inr\AndroidStudioProjects\CaesarCipher\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_f3cb509c20a80bad156227757380728612c2d5b9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\2100 usd to inr\AndroidStudioProjects\CaesarCipher\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\2100 usd to inr\AndroidStudioProjects\CaesarCipher\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_f353ac1d228846f51e8f8e31d4dca8346319b1e2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\2100 usd to inr\AndroidStudioProjects\CaesarCipher\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\2100 usd to inr\AndroidStudioProjects\CaesarCipher\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_7377d74af90cbb1d4a9ac45a2fc811ae3fa7aa9e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\2100 usd to inr\AndroidStudioProjects\CaesarCipher\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f19423ef20aba20697da1520b975b58c3dc7c39a">
+        <dex dex="C:\Users\2100 usd to inr\AndroidStudioProjects\CaesarCipher\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_96dfdc98cd212e5b51ea55e4e9f971ad0bd7f148\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\2100 usd to inr\AndroidStudioProjects\CaesarCipher\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c35ab9802d2fc53cccd5c1584b58945a2eea1721">
+        <dex dex="C:\Users\2100 usd to inr\AndroidStudioProjects\CaesarCipher\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0ed132eee2ee76952b741ce247dbcc6cc0517f70\classes.dex" />
+    </item>
+
+</items>
