@@ -1,4 +1,4 @@
-# CaesarCipher
+# Caesar Cipher
 A primitive application which encrypts text input by user using the Caesar Cipher (key is provided by the user too).
 
 User will see the main activity which has 2 fields for entering text. The first one is for entering the key for the cipher (integers) and the other is for entering the plaintext.  
