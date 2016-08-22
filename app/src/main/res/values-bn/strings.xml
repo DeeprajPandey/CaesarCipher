@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Caesar Cipher</string>
+    <string name="ciphertext_output">সাইফার</string>
+    <string name="encrypt_button">এনক্রিপ্ট</string>
+    <string name="key_input">সিজার সাইফার জন্য আপনার কী লিখুন </string>
+    <string name="key_input_hint">চাবি</string>
+    <string name="plaintext_input">টেক্সট লিখুন এনক্রিপ্ট করা</string>
+    <string name="plaintext_input_hint">সরলপাঠ</string>
+</resources>
