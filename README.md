@@ -1,2 +1,4 @@
 # CaesarCipher
-A primitive application which encrypts text input by user using the Caesar Cipher (key is provided by the user too)
+A primitive application which encrypts text input by user using the Caesar Cipher (key is provided by the user too).
+
+Developed for the partial fulfillment of Google StudyJam session - 2, 2016
