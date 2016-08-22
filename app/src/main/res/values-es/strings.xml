@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Caesar Cipher</string>
+    <string name="key_input">Introduzca su clave para el cifrado de César</string>
+    <string name="plaintext_input">Introduzca el texto que ha de ser codificado</string>
+    <string name="plaintext_input_hint">Texto plano </string>
+    <string name="key_input_hint">Llave</string>
+    <string name="encrypt_button">Cifrar</string>
+    <string name="ciphertext_output">Texto Cifrado </string>
+</resources>
