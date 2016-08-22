@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Caesar Cipher</string>
+
+    <!-- TextView above EditText field to get cipher key -->
+    <string name="key_input">Enter your key for the Caesar Cipher</string>
+
+    <!-- Hint text in key EditText field -->
+    <string name="key_input_hint">Key</string>
+
+    <!-- TextView above EditText field to get plaintext -->
+    <string name="plaintext_input">Enter your text which is to be encrypted</string>
+
+    <!-- Hint text in plaintext EditText field -->
+    <string name="plaintext_input_hint">Plaintext</string>
+
+    <!-- Button text -->
+    <string name="encrypt_button">Encrypt</string>
+
+    <!-- TextView above output -->
+    <string name="ciphertext_output">Ciphertext</string>
+</resources>
